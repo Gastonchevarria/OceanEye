@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://oceaneye-backend.railway.app/$1"
+    }
+  ]
+}

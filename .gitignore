@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.env.local
+!.env.example
+venv/
+__pycache__/
+*.pyc
+.vercel/
