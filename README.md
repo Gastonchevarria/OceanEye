@@ -20,6 +20,8 @@
   <p align="center">
     Detecting Illegal, Unreported, and Unregulated (IUU) fishing through AIS telemetry and Claude AI. 
   </p>
+  <br/>
+  <h3>🔴 <a href="https://oceaneye-three.vercel.app">LIVE DEMO: Test in Real Time!</a> 🔴</h3>
 </div>
 
 <br/>
